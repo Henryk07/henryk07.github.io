@@ -1,7 +1,7 @@
 export default {
     data: {
         basicInfo: {
-            name: 'Erik L',
+            name: 'Haolin Chen',
             career: 'Full-Stack Developer',
             avatar: './user/avatar.jpg', // 头像
             snapshot: '', // 生活照
