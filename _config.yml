@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haolin Chen"
+  name             : "Henryk Chan(Haolin Chen)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "IC College"
+  bio              : "Imperial College London"
   location         : "London, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "henrykchan.chl@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Henryk-Chan-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/Henryk07"
   google_plus      :
   keybase          :
   instagram        :
