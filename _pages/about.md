@@ -40,7 +40,7 @@ Shuwen Chen, Shicheng Fan, **Henryk Chan**, Zheng Qiao, Jiaming Qi, Zixiong Wu, 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Flow-Rate-Insensitive Plasma Extraction by the Stabilization and Acceleration of Secondary Flow in the Ultralow Aspect Ratio Spiral Channel](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Yu9lHQgAAAAJ&citation_for_view=Yu9lHQgAAAAJ:W7OEmFMy1HYC), Shaofei Shen, Yali Zhang, Kai Yang, **Henryk Chan**, Weiwen Li, Xiaoping Li, Chang Tian, Yanbing Niu, **Analytical Chemistry**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
