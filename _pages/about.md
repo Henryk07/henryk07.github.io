@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -21,12 +21,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=Yu9lHQgAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=Yu9lHQgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+- _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AFM 2024</div><img src='images/2024LiquidMetalReview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -36,23 +36,32 @@ My research interest includes neural machine translation and computer vision. I 
 Shuwen Chen, Shicheng Fan, **Henryk Chan**, Zheng Qiao, Jiaming Qi, Zixiong Wu, Joo Chuan Yeo, Chwee Teck Lim
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en-US&user=Yu9lHQgAAAAJ&citation_for_view=Yu9lHQgAAAAJ:YsMSGLbcyi4C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 </div>
 </div>
 
 - [Flow-Rate-Insensitive Plasma Extraction by the Stabilization and Acceleration of Secondary Flow in the Ultralow Aspect Ratio Spiral Channel](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Yu9lHQgAAAAJ&citation_for_view=Yu9lHQgAAAAJ:W7OEmFMy1HYC), Shaofei Shen, Yali Zhang, Kai Yang, **Henryk Chan**, Weiwen Li, Xiaoping Li, Chang Tian, Yanbing Niu, **Analytical Chemistry**
 
+- [High-Throughput Blood Plasma Extraction in a Dimension-Confined Double-Spiral Channel](https://pubs.acs.org/doi/full/10.1021/acs.analchem.3c03002), Shaofei Shen, Hanjie Bai, Xin Wang, **Henryk Chan**, Yanbing Niu, Weiwen Li, Chang Tian, Xiaoping Li, **Analytical Chemistry**
+
+- [Spiral Large-Dimension Microfluidic Channel for Flow-Rate-and Particle-Size-Insensitive Focusing by the Stabilization and Acceleration of Secondary Flow](https://pubs.acs.org/doi/full/10.1021/acs.analchem.3c04897), Shaofei Shen, Lei Zhao, Hanjie Bai, Yali Zhang, Yanbing Niu, Chang Tian, **Henryk Chan**, **Analytical Chemistry**
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- _2021.10_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- _2021.09_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- _2019.06 - 2022.04 (now)_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- _2015.09 - 2019.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+- _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- _2019.05 - 2020.02_, [Lorem](https://github.com/), China.
