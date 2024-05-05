@@ -53,9 +53,9 @@ Shuwen Chen, Shicheng Fan, **Henryk Chan**, Zheng Qiao, Jiaming Qi, Zixiong Wu, 
 - _2021.09_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 📖 Educations
-
-- _2019.06 - 2022.04 (now)_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2015.09 - 2019.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- _2024.09 - 2025.09 (Confirmed)_, **MRes**, **Postgraduate**, Department of Bioengineering, Imperial College London.
+- _2020.09 - 2024.06 (now)_, **BEng**, **Undergraduate**, Department of Automatic Control and Systems Engineering, University of Sheffield.
+- _2022.08 - 2023.05_, Exchange Program, College of Design and Engineering, National University Singapore.
 
 # 💬 Invited Talks
 
