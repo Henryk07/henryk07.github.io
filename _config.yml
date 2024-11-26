@@ -6,58 +6,57 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Henryk Chan's Homepage"
-description              : "Henryk Chan's Homepage "
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+title: "Henryk Chan's Homepage"
+description: "Henryk Chan's Homepage "
+repository: "Henryk07/henryk07.github.io"
+google_scholar_stats_use_cdn: false
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id: # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+google_site_verification: # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification: # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Henryk Chan \n\ (Haolin Chen)"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Imperial College London"
-  location         : "London, UK"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Yu9lHQgAAAAJ"
-  email            : "henrykchan.chl@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Henryk-Chan-2"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "Henryk07"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "henrykchanchl"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0003-3310-5880"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
+  name: "Henryk Chan \n\ (Haolin Chen)"
+  avatar: "images/android-chrome-512x512.png"
+  bio: "Imperial College London"
+  location: "London, UK"
+  employer:
+  pubmed:
+  googlescholar: "https://scholar.google.com/citations?user=Yu9lHQgAAAAJ"
+  email: "henrykchan.chl@gmail.com"
+  researchgate: "https://www.researchgate.net/profile/Henryk-Chan-2"
+  uri:
+  bitbucket:
+  codepen:
+  dribbble:
+  flickr:
+  facebook:
+  foursquare:
+  github: "Henryk07"
+  google_plus:
+  keybase:
+  instagram:
+  impactstory: # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm:
+  linkedin: "henrykchanchl"
+  dblp: # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid: "https://orcid.org/0000-0003-3310-5880"
+  pinterest:
+  soundcloud:
+  stackoverflow: # http://stackoverflow.com/users/123456/username
+  steam:
+  tumblr:
+  twitter:
+  vine:
+  weibo:
+  xing:
+  youtube:
+  wikipedia:
 
 # Reading Files
 include:
@@ -97,14 +96,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -127,17 +124,14 @@ defaults:
       layout: default
       author_profile: true
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-
 # Outputting
 permalink: /:categories/:title/
 timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins
 plugins:
@@ -153,7 +147,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
 
 # HTML Compression
 # - http://jch.penibelst.de/

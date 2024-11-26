@@ -49,15 +49,16 @@ Shuwen Chen, Shicheng Fan, **Henryk Chan**, Zheng Qiao, Jiaming Qi, Zixiong Wu, 
 
 # 🎖 Honors and Awards
 
-- _2021.10_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2021.09_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- _2024.11_ Department of Bioengineering Scholarship for MRes Student, Imperial College London &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Top 5 Students
+<!-- - _2021.09_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations
+
 - _2024.09 - 2025.09 (Confirmed)_, **MRes**, **Postgraduate**, Department of Bioengineering, Imperial College London.
 - _2020.09 - 2024.06 (now)_, **BEng**, **Undergraduate**, Department of Automatic Control and Systems Engineering, University of Sheffield.
 - _2022.08 - 2023.05_, Exchange Program, College of Design and Engineering, National University Singapore.
 
-# 💬 Invited Talks
+# 💬 Invited Talksaa
 
 - _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/)
