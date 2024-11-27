@@ -15,15 +15,15 @@ google_scholar_stats_use_cdn: false
 google_analytics_id: # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification: # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification: 1IIYHWBsQq4ufmy4N6Omkj5MpZp-636QkzmKNYeH5H4 # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification: # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
   name: "Henryk Chan \n\ (Haolin Chen)"
-  avatar: "images/android-chrome-512x512.png"
-  bio: "Imperial College London"
+  avatar: "images/avater.jpg"
+  bio: "MRes Student, Imperial College London"
   location: "London, UK"
   employer:
   pubmed:

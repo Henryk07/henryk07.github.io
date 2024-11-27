@@ -17,14 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 👋 About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=Yu9lHQgAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=Yu9lHQgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My name is Henryk Chan(Haolin Chen), and I am a passionate researcher and medical engineering innovator dedicated to advancing healthcare through cutting-edge biomedical technologies. My academic background includes a degree in engineering and a current master’s program, both accredited by the Institution of Engineering and Technology (IET). My research interests focus on wearable electrochemical (bio)sensors, biosensors for wound management, and ECG systems utilizing liquid metal technology.
+
+I have a strong track record in research, with a few peer-reviewed publications in high-impact SCI Q1 journals with total <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=Yu9lHQgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Additionally, I hold a certified patent for a novel medical device, reflecting my commitment to translating research into practical applications. These accomplishments highlight my dedication to developing innovative solutions that address real-world healthcare challenges.
+
+Beyond my academic and research achievements, I am actively involved in interdisciplinary collaborations as a member of the Advanced Hackspace team, where I contribute to exploring creative engineering solutions. I also serve as a Responder Volunteer at Hammersmith Hospital, part of the Imperial College Healthcare NHS Trust, where I support the healthcare team in enhancing patient care.
+
+<!-- <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=Yu9lHQgAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge -->
 
 # 🔥 News
 
-- _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- _2024.11_: &nbsp;🎉🎉 Received the "Department of Bioengineering Scholarship for MRes Student" award from Imperial College London, given to the top 5 students from all 2024-2025 MRes students in the Department of Bioengineering.
+<!-- - _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications
 
@@ -35,7 +41,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 Shuwen Chen, Shicheng Fan, **Henryk Chan**, Zheng Qiao, Jiaming Qi, Zixiong Wu, Joo Chuan Yeo, Chwee Teck Lim
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en-US&user=Yu9lHQgAAAAJ&citation_for_view=Yu9lHQgAAAAJ:YsMSGLbcyi4C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en-US&user=Yu9lHQgAAAAJ&citation_for_view=Yu9lHQgAAAAJ:YsMSGLbcyi4C) <strong><span class='show_paper_citations' data='Yu9lHQgAAAAJ:YsMSGLbcyi4C'></span></strong>
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 </div>
@@ -49,20 +55,65 @@ Shuwen Chen, Shicheng Fan, **Henryk Chan**, Zheng Qiao, Jiaming Qi, Zixiong Wu, 
 
 # 🎖 Honors and Awards
 
-- _2024.11_ Department of Bioengineering Scholarship for MRes Student, Imperial College London &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Top 5 Students
-<!-- - _2021.09_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+- _2024.11_ Department of Bioengineering Scholarship for MRes Student, Imperial College London &nbsp; | Top 5 Students of 2024-25 MRes Student cohort
+  <!-- - _2021.09_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+  <!-- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -->
+
+# 📜 Patents
+
+- [**Key Switch Convenient to Maintenance**](https://patents.google.com/patent/CN218333573U/en?oq=CN+218333573+U) &nbsp; Authorized on 17 Jan. 2023 by CN National Intellectual Property Administration(CNIPA)
 
 # 📖 Educations
 
-- _2024.09 - 2025.09 (Confirmed)_, **MRes**, **Postgraduate**, Department of Bioengineering, Imperial College London.
-- _2020.09 - 2024.06 (now)_, **BEng**, **Undergraduate**, Department of Automatic Control and Systems Engineering, University of Sheffield.
-- _2022.08 - 2023.05_, Exchange Program, College of Design and Engineering, National University Singapore.
+- 2025.09 - 2028.09, **PhD**, **Postgraduate**, Department of Engineering, University of Cambridge.
+- 2024.09 - 2025.09, **MRes**, **Postgraduate**, Department of Bioengineering, **Imperial College London**.
+- 2020.09 - 2024.06, **BEng**, **Undergraduate**, Department of Automatic Control and Systems Engineering, **University of Sheffield**.
+- 2022.08 - 2023.05, Exchange Program, College of Design and Engineering, **National University Singapore**.
 
-# 💬 Invited Talksaa
+# 🔬 Research Experience
+
+- _2024.09 - Present_, **Neuromechanics and Rehabilitation Technology Group**, **Imperial College London**
+
+  - **Postgraduate Researcher**
+  - Supervisor: Prof. Dr Dario Farina
+
+<!-- - Work on the project titled "Towards Natural Multi-DoF Prosthetic Control with Distributed Ultrasound", which utilizes ultrasound as a means
+    to achieve robust human-machine interaction under the supervision of Prof. Dario Farina, as part of the Horizon 2020 EU Commission RIA
+    SOMA project.
+- Conduct the market analyses of the prosthetic control systems and the development of a novel ultrasound-based prosthetic control system. -->
+
+- _2024.06 - Present_, **Güder Research Group**, **Imperial College London**
+
+  - **Summer Research Intern**
+  - Supervisor: Prof. Dr Firat Güder
+
+<!-- - Dedicated to writing two reviews on non-invasive electrochemical wearable biosensors for tear and sweat analysis and implantable and
+        ingestible wireless bioelectronics for drug delivery. Explored gaps and deficiencies in current
+        research to provide research suggestions and direction.
+  - Work on the ongoing research of Textile-based Colorimetric Sensor for Physiological Monitoring of Sweat pH and Glucose, which aims to
+    create an embroidered cotton-thread sensor for sportswear to monitor pH and glucose in sweat, enabling real-time, non-invasive health
+    tracking during exercise. Planned to design experiments and supplement experimental data under Prof. Güder’s supervision. -->
+
+- _2023.10 - 2024.06_, **Sheffield Biomedical Robotics Lab**, **University of Sheffield**
+
+  - **Undergraduate Researcher**
+  - Supervisor: Dr Dana Damian
+
+- _2022.10 - 2023.08_, **MechanoBioEngineering Laboratory**, **National University Singapore**
+
+  - **Research Intern**
+  - Supervisor: Prof. Dr Chwee Teck Lim(CT Lim)
+
+# 🎨 Extracurricular Activities
+
+- _2024.09 - Present_, Hammersmith Hospital Responder Volunteer, Imperial College Healthcare NHS Trust
+- _2022.10 - Present_, Chinese Wikipedia Volunteer Editor
+
+<!-- # 💬 Invited Talksaa
 
 - _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 
-- _2019.05 - 2020.02_, [Lorem](https://github.com/), China.
+- _2019.05 - 2020.02_, [Lorem](https://github.com/), China. -->
