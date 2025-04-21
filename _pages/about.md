@@ -65,7 +65,7 @@ Shuwen Chen, Shicheng Fan, **Henryk Chan**, Zheng Qiao, Jiaming Qi, Zixiong Wu, 
 
 # 📖 Educations
 
-- 2025.09 - 2028.09, **PhD**, **Postgraduate**, Department of Engineering, University of Cambridge.
+- 2025.09 - 2030.09, **PhD**, **Postgraduate**, Department of Biomedical Engineering, Northwestern University.
 - 2024.09 - 2025.09, **MRes**, **Postgraduate**, Department of Bioengineering, **Imperial College London**.
 - 2020.09 - 2024.06, **BEng**, **Undergraduate**, Department of Automatic Control and Systems Engineering, **University of Sheffield**.
 - 2022.08 - 2023.05, Exchange Program, College of Design and Engineering, **National University Singapore**.
