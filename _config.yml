@@ -7,7 +7,7 @@
 
 # Site Settings
 title: "Henryk Chan's Homepage"
-description: "Henryk Chan's Homepage "
+description: "Henryk's Homepage "
 repository: "Henryk07/henryk07.github.io"
 google_scholar_stats_use_cdn: false
 
@@ -23,7 +23,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 author:
   name: "Henryk Chan \n\ (Haolin Chen)"
   avatar: "images/avater.jpg"
-  bio: "MRes Student, Imperial College London"
+  bio: "BEng MRes AMIMechE"
   location: "London, UK"
   employer:
   pubmed:
